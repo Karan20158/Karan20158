@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Karanveer Singh! 👋
 
-<!--
-**Karan20158/Karan20158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student | Aspiring AI & Data Science Enthusiast | Programmer
 
-Here are some ideas to get you started:
+I'm interested in exploring the intersection of technology, mathematics and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning and experimenting with:
+
+- Python and Java
+- Artificial Intelligence & Machine Learning
+- Data Science and Data Visualization
+- Computational Intelligence
+- Algorithm Design
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, Java
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Tools:** Git, GitHub, PyCharm
+
+### 🧬 Currently Exploring
+
+- Genetic Algorithms
+- Evolutionary Computation
+- Mathematical Optimization
+- Machine Learning Fundamentals
+
+### 🎯 My Goal
+
+To understand how intelligent systems work, build meaningful projects and continuously expand my technical knowledge.
+
+---
+*Learning, experimenting and building — one project at a time.*
